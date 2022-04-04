@@ -2,6 +2,14 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+header > h1 {
+    color: #707070;
+}
+
+main > h2, h3, h4, h5, h6, p {
+    color: #373A3C;
+}
+
 #navbar {
     background-color: #E83E8C;
 }
@@ -10,3 +18,16 @@ body {
     max-height: 53px;
     max-width: 132px;
 }
+
+#tc {
+    background-color: #17A2B8;
+}
+
+#footer {
+    background-color: #E83E8C;
+}
+
+#footer img {
+    max-height: 100px;
+}
+
