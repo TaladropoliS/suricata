@@ -1,0 +1,12 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#navbar {
+    background-color: #E83E8C;
+}
+
+#navbar img {
+    max-height: 53px;
+    max-width: 132px;
+}
